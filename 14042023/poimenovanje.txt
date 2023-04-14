@@ -1,0 +1,28 @@
+example.com
+com.example
+
+github.com/e-gradivo (/java)
+e-gradivo.github.io
+io.github.e_gradivo
+
+tbsckr.github.io
+
+io.github.tbsckr
+java
+
+java.util
+java.lang
+
+trgovina => io.github.tbsckr.trgovina
+racuni =>   io.github.tbsckr.racuni
+util =>     io.github.tbsckr.util
+
+celotno poimenovanje paketa
+
+| io
+| ---> github
+| ------> tbsckr
+| ---------> trgovina
+
+io.github.tbsckr.trgovina.Narocilo
+io.github.tbsckr.racuni.Narocilo
